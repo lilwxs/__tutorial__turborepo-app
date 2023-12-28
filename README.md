@@ -14,7 +14,7 @@ This turborepo uses [Yarn](https://classic.yarnpkg.com/) as a package manager. I
 - `web`: Another [React.js](https://reactjs.org/) app
 - `ui`: A stub React component library shared by both `web` applications
 - `eslint-config`: `eslint` configurations
-- `tailwind-config`: `eslint` configurations
+- `tailwind-config`: `tailwindcss` configurations
 
 ### Utilities (Dịch: Tiện ích)
 

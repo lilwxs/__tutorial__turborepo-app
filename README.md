@@ -1,5 +1,5 @@
 # VibeVerse Client App (Tutorial)
-![hoangthaininh | _wxsdev](/apps/web/public/logo192.svg)
+![hoangthaininh | _wxsdev](/apps/web/public/logo192.png)
 
 This is the client app for the VibeVerse project. It is a React.js app that uses Next.js for server-side rendering and routing. It is a single-page app that uses React Router for client-side routing.
 

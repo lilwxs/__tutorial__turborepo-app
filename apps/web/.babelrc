@@ -1,0 +1,13 @@
+{
+  "plugins": [
+    [
+      "@emotion",
+      {
+        "sourceMap": true, // sourceMap là một file đính kèm với file css giúp chúng ta debug dễ dàng hơn
+        "autoLabel": "always", // tự động gắn label cho css
+        "labelFormat": "[local]", // format của label
+        "cssPropOptimization": true // tối ưu hóa css
+      }
+    ]
+  ]
+}
